@@ -16,7 +16,7 @@ int isPrime(unsigned long number);
 
 int main(int argc, const char * argv[]) {
    
-    //must be > 7
+    //must be > 8
     unsigned long lastOne = 0;
     cout<<"Last number to check: "<<endl;           //problems if i don't put endl at the end
     
